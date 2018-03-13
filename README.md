@@ -35,3 +35,5 @@ The following parametres are setting in file **'fitness.m'**
 % **HubToHub_con**:α
 
 % **Time_con**:β
+
+The specific instructions for genetic algorithm can be found in **"Instuctions of Genetic Algorithm"**
